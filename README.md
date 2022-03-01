@@ -14,10 +14,10 @@
 
 ```bash
 # 克隆项目
-git clone http://111.229.180.66/zoumeng/jr-vue-admin-template  
+git clone https://github.com/Hercat77/vue-admin-template.git 
 
 # 进入项目目录
-cd jr-vue-admin-template
+cd vue-admin-template
 
 # 安装依赖
 npm install
