@@ -1,0 +1,6 @@
+build/*.js
+src/assets
+src/utils/generator
+src/views/tool/build
+public
+dist
